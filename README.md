@@ -1,2 +1,41 @@
-# morphology-themes
-A public list of which themes have already been used for Morphology.
+# Morphology Themes
+A public list of themes that have been used for Morphology puzzles.
+
+- LEAD -> GOLD with ALCHEMY in the middle
+- LIFE -> LIFE ("Circle of Life") with the Lion King showing up in several clues
+- JEKYLL -> HYDE
+- HILL -> STATION with the morph emulating a rollercoaster ride, passing through multiple coaster-related words
+- ROADS -> ROME ("All roads lead to...")
+- FLATTERY -> NOWHERE ("Flattery will get you nowhere")
+- BEGINNING -> MIDDLE -> END
+- Phases of matter (GAS, LIQUID, SOLID, PLASMA)
+- FARM -> TABLE ("Farm to table")
+- Taylor Swift, with the morph moving through a series of her album titles
+- ATOM -> UNIVERSE
+- HARE -> TORTOISE
+- SPURS -> ACTION
+- WATER -> WINE
+- PAST -> PRESENT -> FUTURE
+- SLIM -> NONE
+- Stages of fire, from SPARK -> FLAME -> EMBER -> ASH
+- STAIRWAY -> HEAVEN
+- ATTIC -> BASEMENT, passing through LADDER and STAIRS
+- ZERO -> HERO
+- RAGS -> RICHES
+- FROG -> PRINCE, passing through KISS
+- ALPHA -> OMEGA
+- STUDENT -> TEACHER
+- PRINCESS -> PEA, passing through MATTRESSES
+- MEAT -> SAUSAGE, passing through SEASON, GRIND, and STUFF
+- MOURNING becomes ELECTRA (it's a [play](https://en.wikipedia.org/wiki/Mourning_Becomes_Electra))
+- BRUCE -> BATMAN
+- SAND -> GLASS
+- DOUGH -> PORK -> WONTON
+- BABY -> CHILD -> ADULT
+- TADPOLE -> FROG / TOAD
+- HEADS -> COIN -> TAILS
+- CATERPILLAR -> BUTTERFLY
+- LOST -> SEEK -> FOUND
+- LAMB -> SLAUGHTER
+- CAME -> SAW -> CONQUERED
+- SNAP -> CRACKLE -> POP
