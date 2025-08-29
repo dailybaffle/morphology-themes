@@ -39,3 +39,4 @@ A public list of themes that have been used for Morphology puzzles.
 - LAMB -> SLAUGHTER
 - CAME -> SAW -> CONQUERED
 - SNAP -> CRACKLE -> POP
+- DAWN -> DUSK
