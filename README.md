@@ -41,3 +41,5 @@ A public list of themes that have been used for Morphology puzzles.
 - SNAP -> CRACKLE -> POP
 - DAWN -> DUSK
 - BILL -> VETO -> PASSAGE -> LAW
+- The Beatles, passing through all their names
+- MEET->DATE->PROPOSE->MARRY
