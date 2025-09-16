@@ -43,3 +43,10 @@ A public list of themes that have been used for Morphology puzzles.
 - BILL -> VETO -> PASSAGE -> LAW
 - The Beatles, passing through all their names
 - MEET -> DATE -> PROPOSE -> MARRY
+- SHIP -> THESEUS -> SHIP
+- TURKEY -> NOVEMBER -> NAP
+- PAPER -> ORIGAMI -> CRANE
+- KANSAS -> TORNADE -> OZ
+- ROCK -> PAPER -> SCISSORS
+- TUNNEL -> LIGHT
+- APPLE -> PRESS -> CIDER
