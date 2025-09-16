@@ -46,7 +46,7 @@ A public list of themes that have been used for Morphology puzzles.
 - SHIP -> THESEUS -> SHIP
 - TURKEY -> NOVEMBER -> NAP
 - PAPER -> ORIGAMI -> CRANE
-- KANSAS -> TORNADE -> OZ
+- KANSAS -> TORNADO -> OZ
 - ROCK -> PAPER -> SCISSORS
 - TUNNEL -> LIGHT
 - APPLE -> PRESS -> CIDER
