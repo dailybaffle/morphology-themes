@@ -50,3 +50,8 @@ A public list of themes that have been used for Morphology puzzles.
 - ROCK -> PAPER -> SCISSORS
 - TUNNEL -> LIGHT
 - APPLE -> PRESS -> CIDER
+- EARTH -> WIND -> WATER -> FIRE
+- Suits of cards
+- HEAD -> SHOULDERS -> KNEES -> TOES
+- ROSE -> SEAL -> KISS
+- JAWS quote, going through progressively larger boats
