@@ -49,9 +49,10 @@ A public list of themes that have been used for Morphology puzzles.
 - KANSAS -> TORNADO -> OZ
 - ROCK -> PAPER -> SCISSORS
 - TUNNEL -> LIGHT
-- APPLE -> PRESS -> CIDER
-- EARTH -> WIND -> WATER -> FIRE
+- HEAVENS -> BETSY
 - Suits of cards
+- EARTH -> WATER -> WIND -> FIRE
+- APPLE -> PRESS -> CIDER
 - HEAD -> SHOULDERS -> KNEES -> TOES
 - ROSE -> SEAL -> KISS
 - JAWS quote, going through progressively larger boats
