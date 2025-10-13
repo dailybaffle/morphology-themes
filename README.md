@@ -56,3 +56,7 @@ A public list of themes that have been used for Morphology puzzles.
 - HEAD -> SHOULDERS -> KNEES -> TOES
 - ROSE -> SEAL -> KISS
 - JAWS quote, going through progressively larger boats
+- CUCUMBER -> PICKLE -> RELISH
+- DRIVE -> SLICE -> BUNK -> WEDGE -> BIRDIE (basically a golf short story)
+- CONSTANTINOPLE -> ISTANBUL
+- Beatles first names
