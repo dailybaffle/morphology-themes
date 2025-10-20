@@ -60,3 +60,7 @@ A public list of themes that have been used for Morphology puzzles.
 - DRIVE -> SLICE -> BUNK -> WEDGE -> BIRDIE (basically a golf short story)
 - CONSTANTINOPLE -> ISTANBUL
 - Beatles first names
+- Song sections: INTRO -> VERSE -> CHORUS -> BRIDGE -> OUTRO
+- MARSHMALLOW -> BONFIRE -> SMORE
+- Stages of grief
+- REDUCE -> REUSE -> RECYCLE
