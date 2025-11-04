@@ -64,3 +64,11 @@ A public list of themes that have been used for Morphology puzzles.
 - MARSHMALLOW -> BONFIRE -> SMORE
 - Stages of grief
 - REDUCE -> REUSE -> RECYCLE
+- FEE -> FIE -> FOE -> FUM
+- Seasons
+- HERE -> ETERNITY
+- BORN out of WEDLOCK
+- Seven dwarves
+- HUMAN -> WEREWOLF via MOON
+- BREAKFAST -> LUNCH -> DINNER -> DESSERT
+- BURGER / FRIES / SODA
