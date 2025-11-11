@@ -70,5 +70,9 @@ A public list of themes that have been used for Morphology puzzles.
 - BORN out of WEDLOCK
 - Seven dwarves
 - HUMAN -> WEREWOLF via MOON
+- FALL from GRACE
+- STRAIGHT outta COMPTON
+- Three little pigs (STRAW/STICKS/BRICK)
+- FEE -> FIE -> FOE -> FUM
 - BREAKFAST -> LUNCH -> DINNER -> DESSERT
 - BURGER / FRIES / SODA
