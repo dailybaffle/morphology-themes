@@ -74,5 +74,7 @@ A public list of themes that have been used for Morphology puzzles.
 - STRAIGHT outta COMPTON
 - Three little pigs (STRAW/STICKS/BRICK)
 - FEE -> FIE -> FOE -> FUM
+- STOP -> DROP -> ROLL
+- ESCAPE from NEWYORK
 - BREAKFAST -> LUNCH -> DINNER -> DESSERT
 - BURGER / FRIES / SODA
