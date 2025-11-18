@@ -78,3 +78,6 @@ A public list of themes that have been used for Morphology puzzles.
 - ESCAPE from NEWYORK
 - BREAKFAST -> LUNCH -> DINNER -> DESSERT
 - BURGER / FRIES / SODA
+- SPRINKLE -> DRIZZLE -> SHOWER -> STORM -> SQUALL
+- READY SET GO
+- SIP SWIG DRINK GULP CHUG
