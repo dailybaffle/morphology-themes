@@ -81,3 +81,8 @@ A public list of themes that have been used for Morphology puzzles.
 - SPRINKLE -> DRIZZLE -> SHOWER -> STORM -> SQUALL
 - READY SET GO
 - SIP SWIG DRINK GULP CHUG
+- CAUSE -> EFFECT
+- WHIP into SHAPE
+- SOLIDS EIGHT STRIPES
+- ACID WATER BASE
+- PACIFIC -> ATLANTIC
