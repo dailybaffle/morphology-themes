@@ -88,3 +88,4 @@ A public list of themes that have been used for Morphology puzzles.
 - PACIFIC -> ATLANTIC
 - SEED -> FOREST, passing through many trees and playing off the idiom "miss the forest for the trees"
 - COAL -> DIAMOND
+- LOADED -> FRIES passing through the contents thereof
