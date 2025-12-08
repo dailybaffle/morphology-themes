@@ -79,10 +79,12 @@ A public list of themes that have been used for Morphology puzzles.
 - BREAKFAST -> LUNCH -> DINNER -> DESSERT
 - BURGER / FRIES / SODA
 - SPRINKLE -> DRIZZLE -> SHOWER -> STORM -> SQUALL
-- READY SET GO
+- READY -> SET -> GO
 - SIP SWIG DRINK GULP CHUG
 - CAUSE -> EFFECT
 - WHIP into SHAPE
-- SOLIDS EIGHT STRIPES
-- ACID WATER BASE
+- SOLIDS -> EIGHT -> STRIPES
+- ACID -> WATER -> BASE
 - PACIFIC -> ATLANTIC
+- SEED -> FOREST, passing through many trees and playing off the idiom "miss the forest for the trees"
+- COAL -> DIAMOND
