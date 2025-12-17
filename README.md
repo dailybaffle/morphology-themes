@@ -90,3 +90,4 @@ A public list of themes that have been used for Morphology puzzles.
 - COAL -> DIAMOND
 - LOADED -> FRIES passing through the contents thereof
 - SOLSTICE -> EQUINOX
+- BOULDER -> SAND, passing through ERODE
