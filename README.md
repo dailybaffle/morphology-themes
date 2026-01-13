@@ -92,3 +92,4 @@ A public list of themes that have been used for Morphology puzzles.
 - SOLSTICE -> EQUINOX
 - BOULDER -> SAND, passing through ERODE
 - HORSE to WATER but can't make them DRINK
+- BANNER to HULK
