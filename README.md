@@ -93,3 +93,7 @@ A public list of themes that have been used for Morphology puzzles.
 - BOULDER -> SAND, passing through ERODE
 - HORSE to WATER but can't make them DRINK
 - BANNER to HULK
+- Phases of the moon
+- SNAP -> TOUCHDOWN (football play)
+- BIRDS and the BEES
+- Last names of US Presidents
