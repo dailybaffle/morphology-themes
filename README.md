@@ -101,3 +101,4 @@ A public list of themes that have been used for Morphology puzzles.
 - Anagrams of STAPLE
 - CALL into QUESTION
 - LIGHTS CAMERA ACTION
+- PHOENIX -> FIRE -> PHOENIX
