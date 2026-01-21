@@ -98,5 +98,6 @@ A public list of themes that have been used for Morphology puzzles.
 - BIRDS and the BEES
 - Last names of US Presidents
 - FISH out of WATER
+- Anagrams of STAPLE
 - CALL into QUESTION
 - LIGHTS CAMERA ACTION
