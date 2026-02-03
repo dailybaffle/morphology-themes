@@ -107,3 +107,6 @@ A public list of themes that have been used for Morphology puzzles.
 - RABBIT out of a HAT
 - TEACHER -> DEALER, referencing BREAKING BAD
 - PAWN to QUEEN (a promotion in chess)
+- DRESSED to KILL
+- GOOD BETTER BEST
+- HEAD BODY ARMS LEGS HANGMAN (the children's game)
