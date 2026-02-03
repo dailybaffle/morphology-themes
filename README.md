@@ -102,3 +102,8 @@ A public list of themes that have been used for Morphology puzzles.
 - CALL into QUESTION
 - LIGHTS CAMERA ACTION
 - PHOENIX -> FIRE -> PHOENIX
+- POLE -> TROPIC -> EQUATOR
+- SEVEN -> TEN with entries sort of spelling out SPLIT (it's a bowling thing)
+- RABBIT out of a HAT
+- TEACHER -> DEALER, referencing BREAKING BAD
+- PAWN to QUEEN (a promotion in chess)
