@@ -113,3 +113,5 @@ A public list of themes that have been used for Morphology puzzles.
 - TAKEOFF -> LANDING
 - BACK to SCHOOL
 - SINGLE -> DOUBLE -> TRIPLE -> HOMER
+- CRADLE to GRAVE
+- ENEMY to FRIEND
