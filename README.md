@@ -118,3 +118,5 @@ A public list of themes that have been used for Morphology puzzles.
 - BORN to be WILD
 - STARTED from the BOTTOM
 - MAN from UNCLE
+- SPIRAL out of CONTROL
+- POINT LINE PLANE SOLID
