@@ -115,3 +115,4 @@ A public list of themes that have been used for Morphology puzzles.
 - SINGLE -> DOUBLE -> TRIPLE -> HOMER
 - CRADLE to GRAVE
 - ENEMY to FRIEND
+- BORN to be WILD
