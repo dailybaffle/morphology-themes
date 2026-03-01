@@ -116,3 +116,5 @@ A public list of themes that have been used for Morphology puzzles.
 - CRADLE to GRAVE
 - ENEMY to FRIEND
 - BORN to be WILD
+- STARTED from the BOTTOM
+- MAN from UNCLE
