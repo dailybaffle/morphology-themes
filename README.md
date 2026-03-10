@@ -122,3 +122,6 @@ A public list of themes that have been used for Morphology puzzles.
 - POINT LINE PLANE SOLID
 - SPACE SKY CRUST MANTLE CORE
 - MOUNTAIN out of a MOLEHILL
+- PRACTICE makes PERFECT
+- LATHER RINSE REPEAT
+- when PUSH comes to SHOVE
