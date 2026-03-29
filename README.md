@@ -126,3 +126,5 @@ A public list of themes that have been used for Morphology puzzles.
 - LATHER RINSE REPEAT
 - when PUSH comes to SHOVE
 - FLOP TURN RIVER
+- BRONZE SILVER GOLD
+- MONKEY in the middle / KEEP AWAY
