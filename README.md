@@ -129,3 +129,4 @@ A public list of themes that have been used for Morphology puzzles.
 - BRONZE SILVER GOLD
 - MONKEY in the middle / KEEP AWAY
 - FALLING to PIECES
+- Orchestra sections
