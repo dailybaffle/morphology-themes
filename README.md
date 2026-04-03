@@ -131,3 +131,4 @@ A public list of themes that have been used for Morphology puzzles.
 - FALLING to PIECES
 - Orchestra sections
 - PRELUDE to FINALE
+- FADE to BLACK
