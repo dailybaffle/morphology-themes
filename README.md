@@ -133,3 +133,14 @@ A public list of themes that have been used for Morphology puzzles.
 - PRELUDE to FINALE
 - FADE to BLACK
 - NEEDLE in a HAY STACK
+- DOCTOR to PATIENT
+- HOP SKIP JUMP
+- MOTH to FLAME
+- PEAK to VALLEY
+- ROOTS TRUNK BRANCH TWIG LEAF
+- RAPUNZEL to PRINCE
+- ROAD to DAMASCUS
+- FRESH out of IDEAS
+- CITY to SUBURB
+- KEEP AWAY / MONKEY in the middle
+- MARBLE to STATUE
